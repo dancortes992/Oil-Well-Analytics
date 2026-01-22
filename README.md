@@ -22,7 +22,7 @@ Features available in our data consist of:
 
 **Train data split ratio:** 3:1
 
-**Models evaluated:** LogisticRegression
+**Models evaluated:** LinearRegression
 
 ## Findings
 
